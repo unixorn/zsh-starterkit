@@ -1,0 +1,17 @@
+# this file is used by antibody to load plugins
+# https://getantibody.github.io/
+
+# oh-my-zsh
+robbyrussell/oh-my-zsh
+
+# theme
+denysdovhan/spaceship-prompt
+
+# zsh-users awesomesauce
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
+
+# this project
+mattmc3/zsh-starterkit
